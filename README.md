@@ -39,7 +39,7 @@ Check out my repositories to see my data analytics and machine learning projects
 
 ### 📫 Connect With Me
 
-- GitHub: [muhammedmusthak333-tech](https://github.com/muhammedmusthak333-tech)
+- Linked.in:www.linkedin.com/in/muhammed-musthak
 <!--
 **muhammedmusthak333-tech/muhammedmusthak333-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
